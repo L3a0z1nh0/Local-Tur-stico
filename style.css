@@ -1,3 +1,10 @@
+:root {
+      font-family: "Chakra Petch", sans-serif, "Alice", serif;
+      line-height: 150%;
+      color: #220d0b
+
+}
+
 body {
     background-image: url(assets/1703144.jpg);
     background-size: cover;
@@ -16,4 +23,17 @@ img {
     border-radius: 16px;
     width: 750px;
     height: 400px;
+}
+
+h1 {
+    line-height: 140%;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h1, h2 {
+    color: #291B1A;
 }
